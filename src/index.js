@@ -1,13 +1,24 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import {ECGChartView} from "./charts/ECGChartView";
+import {data} from "./data";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <ECGChartView
+        data={{
+            ecgData: data.ecgData,
+            annoData: data.annoData,
+            fragData: data.fragData,
+            noiseData: data.noiseData,
+            pointStart: data.pointStart,
+        }}
+        chartStyle={{
+            background: '#FFFFFF',
+            marginLeft: 10,
+            marginTop: 10,
+        }}/>,
   document.getElementById('root')
 );
 
