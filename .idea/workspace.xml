@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce28880-833c-4319-9144-0e4eaee3179d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/charts/BeatType.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/CanvasTouchListener.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/ChartDrawer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/ChartStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/CoorComputor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/DomSizeListener.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/ECGChartView.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/ECGChartViewTouchListener.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/JsPoint.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/JsRect.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charts/MouseEventListener.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591951281580</updated>
-      <workItem from="1591951282982" duration="9168000" />
+      <workItem from="1591951282982" duration="9762000" />
     </task>
     <servers />
   </component>
